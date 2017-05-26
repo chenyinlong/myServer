@@ -6,3 +6,4 @@
 - 测试拉取
 - 测试提交
 - 测试ubuntu git
+- 测试ubunt git ssh 
